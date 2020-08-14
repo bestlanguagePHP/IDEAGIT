@@ -5,5 +5,6 @@ public class test {
         System.out.println("idea配置git");
         System.out.println("idea配置git");
         System.out.println("idea配置git");
+        System.out.println("idea配置git");System.out.println("idea配置git");
     }
 }
